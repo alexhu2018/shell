@@ -1,6 +1,6 @@
 # shell
-## 学习shell基础
-## 学习shell语法
+## shell基础
+## shell语法
 ## shell变量
 ## shell流程控制
 
